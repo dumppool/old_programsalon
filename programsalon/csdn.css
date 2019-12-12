@@ -1,0 +1,48 @@
+A:unknown {
+	TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: none
+}
+A.top:unknown {
+	TEXT-DECORATION: none
+}
+A.top:link {
+	COLOR: #000000; TEXT-DECORATION: none; face: Arial
+}
+A.top:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.top:hover {
+	COLOR: red; TEXT-DECORATION: none
+}
+.title1 {
+	FONT-SIZE: 15pt; LINE-HEIGHT: 130%
+}
+.title2 {
+	FONT-SIZE: 14px; LINE-HEIGHT: 120%; TEXT-DECORATION: underline
+}
+TR {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Arial
+}
+TD {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Arial
+}
+.tdmain {
+	FONT-SIZE: 11pt; COLOR: #000000; LINE-HEIGHT: 19pt
+}
+.td1 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.td2 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: 0px solid; BORDER-LEFT: 0px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.td3 {
+	BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
